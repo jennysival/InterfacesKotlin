@@ -1,6 +1,6 @@
 package formasGeometricas
 
-class Quadrado() : Forma {
+class Quadrado : Forma {
 
     override var area: Double = 0.0
     override val tipoForma = "Quadrado"

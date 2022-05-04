@@ -1,6 +1,6 @@
 package formasGeometricas
 
-class Losango() : Forma {
+class Losango : Forma {
 
     override val tipoForma = "Losango"
     override var area = 0.0
