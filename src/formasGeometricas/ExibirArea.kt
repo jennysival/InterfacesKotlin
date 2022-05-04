@@ -1,6 +1,0 @@
-package formasGeometricas
-
-class ExibirArea {
-
-
-}
